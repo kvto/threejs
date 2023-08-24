@@ -1,8 +1,8 @@
 import CustomButton from "./CustomButton";
-import AlPicker from "./CustomButton";
-import ColorPicker from "./CustomButton";
-import FilePicker from "./CustomButton";
-import Tab from "./CustomButton";
+import AlPicker from "./AlPicker";
+import ColorPicker from "./ColorPicker";
+import FilePicker from "./FilePicker";
+import Tab from "./Tab";
 
 
 export {
