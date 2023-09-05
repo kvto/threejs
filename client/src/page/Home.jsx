@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable react/no-unescaped-entities */
 import { motion, AnimatePresence } from 'framer-motion';
 import { useSnapshot } from 'valtio';
 
@@ -34,7 +36,7 @@ const Home = () => {
                 <motion.div
                 {...headContainerAnimation}
                 className='flex flex-col gap-5'>
-                    <p className='max-w-md font-normal text-gray-600 text-base'>
+                    <p className='max-w-md font-normal text-white text-base'>
                         Create your unique and exclusive shirt with our brand-new
                         3D customization tool. <strong> Unleash your imagintion</strong>{" "} and define your own style
                     </p>
